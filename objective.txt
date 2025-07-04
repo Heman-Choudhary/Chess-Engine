@@ -1,0 +1,2 @@
+Inspired by documentary of Google's GO engine defeating the World Champion in 2016
+To understand the complexity of developing such engines.
